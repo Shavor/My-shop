@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "title": "Стул",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 23,
+    "count": 2
+  },
+  {
+    "id": 1,
+    "title": "Стол",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 53,
+    "count": 1
+  },
+  {
+    "id": 2,
+    "title": "Кровать",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 41,
+    "count": 2
+  },
+  {
+    "id": 3,
+    "title": "Диван",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 16,
+    "count": 3
+  },
+  {
+    "id": 4,
+    "title": "Лампа",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 45,
+    "count": 5
+  },
+  {
+    "id": 5,
+    "title": "Принтер",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 86,
+    "count": 4
+  },
+  {
+    "id": 6,
+    "title": "Телефон",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 98,
+    "count": 3
+  },
+  {
+    "id": 7,
+    "title": "Светильник",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 13,
+    "count": 1
+  },
+  {
+    "id": 8,
+    "title": "Табуретка",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 15,
+    "count": 1
+  },
+  {
+    "id": 9,
+    "title": "Холодильник",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    "category": "chairs",
+    "price": 256,
+    "count": 3
+  }
+]

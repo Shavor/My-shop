@@ -1,0 +1,54 @@
+@import '../components.scss';
+
+.price_table {
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin-bottom: 20px;
+
+	thead {
+		background-color: $main-color;
+		color: $background-text-color;
+		font-weight: lighter;
+		;
+	}
+
+	tr {
+		height: 25px;
+	}
+
+	tbody {
+		color: $main-color;
+
+		td:nth-child(2) {
+			text-align: left;
+		}
+
+		td:nth-child(even) {
+			background: $background-color;
+		}
+
+		.count {
+			display: inline-block;
+			min-width: 30px;
+		}
+	}
+}
+
+.btn {
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	transition: all 0.2s ease-in-out;
+	cursor: pointer;
+}
+
+.btn:hover,
+.btn_del:hover {
+	transform: scale(1.02) translate(2px, -2px);
+}
+
+.btn_del {
+	transition: all 0.2s ease-in-out;
+	cursor: pointer;
+}
